@@ -1,0 +1,52 @@
+@charset "ISO-8859-1";
+
+.wrapper{
+	margin: 40px;
+	padding: 40px;
+	background-color: beige;
+}
+
+h1{ color: #8000ff;
+	
+}
+
+.green {
+	background-color:green;
+	width:62px;
+	color:white;
+}
+
+.return{
+	background-color:#400040;
+	width:80px;
+	color:white;
+}
+
+.title{
+	color: green;
+	text-align: center;
+}
+
+.logout{
+	position: relative;
+	left:1200px;
+}
+
+.dashboard{
+	position: relative;
+	left:1200px;
+	
+}
+
+.button {
+    display: block;
+    width: 68px;
+    height: 40px;
+    background: #4E9CAF;
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+}
